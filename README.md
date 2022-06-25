@@ -5,3 +5,4 @@ Regression of house selling prices using Kaggle data
 
 Performed EDA and feature engineering to transform data into useable features for the regression model
 
+Main code in house_prices.ipynb
